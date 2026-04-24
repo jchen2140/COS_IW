@@ -1,7 +1,0 @@
-event,event_date,event_label,event_type,x_query,x_language,wsj_file,official_file,analysis_note
-svb_collapse_mar23,2023-03-10,SVB Collapse,Crisis,"SVB OR Silicon Valley Bank",en,wsj_mar23_doc.txt,official_mar23_doc.txt,"Crisis framing and systemic-risk narrative divergence."
-fomc_hike_crisis_mar23,2023-03-22,Hike into Crisis,Conflict,"FOMC March 2023",en,wsj_mar23_doc.txt,official_mar23_doc.txt,"Rate hike during bank panic; conflict between policy and fear narratives."
-fomc_pivot_dec23,2023-12-13,The Pivot,Euphoria,"FOMC December 2023",en,wsj_dec23_doc.txt,official_dec23_doc.txt,"Pivot expectations and soft-landing narrative expansion."
-fomc_rugpull_jan24,2024-01-31,The Rug Pull,Disappointment,"FOMC January 2024",en,wsj_jan24_doc.txt,official_jan24_doc.txt,"Sentiment shock after lower probability of near-term cuts."
-gme_roaring_kitty_jun24,2024-06-03,GME Returns,Viral,"Roaring Kitty June 2024",en,wsj_jun24_doc.txt,,"Viral retail narrative versus institutional skepticism."
-fomc_jumbo_cut_sep24,2024-09-18,The Jumbo Cut,Validation,"FOMC September 2024",en,wsj_sep24_doc.txt,official_sep24_doc.txt,"Validation event for prior soft-landing beliefs."
