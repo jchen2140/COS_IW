@@ -1,0 +1,6 @@
+window,n_comments,similarity_to_wsj,coherence,drift_velocity
+0-1h,0,,,
+1-6h,0,,,
+6-24h,0,,,
+24-72h,0,,,
+72h+,826,0.8211056987244325,0.5980306412117573,

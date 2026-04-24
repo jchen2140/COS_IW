@@ -1,0 +1,7 @@
+event,event_label,event_date,status,selected_source,selected_title,selected_url,selected_ranking_score,candidate_count,search_endpoint,query_used,unique_threads
+svb_collapse_mar23,SVB Collapse,2023-03-10,collected,x,,,,870,search/all,SVB OR Silicon Valley Bank -is:retweet lang:en,825
+fomc_hike_crisis_mar23,Hike into Crisis,2023-03-22,collected,x,,,,530,search/all,FOMC March 2023 -is:retweet lang:en,294
+fomc_pivot_dec23,The Pivot,2023-12-13,collected,x,,,,401,search/all,FOMC December 2023 -is:retweet lang:en,259
+fomc_rugpull_jan24,The Rug Pull,2024-01-31,collected,x,,,,286,search/all,FOMC January 2024 -is:retweet lang:en,197
+gme_roaring_kitty_jun24,GME Returns,2024-06-03,collected,x,,,,1247,search/all,Roaring Kitty June 2024 -is:retweet lang:en,747
+fomc_jumbo_cut_sep24,The Jumbo Cut,2024-09-18,collected,x,,,,654,search/all,FOMC September 2024 -is:retweet lang:en,419

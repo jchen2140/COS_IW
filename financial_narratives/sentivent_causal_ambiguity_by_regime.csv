@@ -1,0 +1,5 @@
+evaluation_regime,source,feature,fleiss_kappa,n_events
+low_quality_noisy,SENTiVENT,primary_cause,0.40306122448979587,9
+low_quality_noisy,SENTiVENT,blame_target,0.4782608695652174,9
+low_quality_noisy,X,primary_cause,-0.012499999999999942,9
+low_quality_noisy,X,blame_target,-0.13399999999999998,9

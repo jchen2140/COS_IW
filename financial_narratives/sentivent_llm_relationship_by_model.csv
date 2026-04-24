@@ -1,0 +1,235 @@
+event,event_label,event_type,model,frame_match,emotion_match,stance_match,blame_match,causal_match
+t01_macroeconomics_missing_date,att leapfrogs exxon mobil as largest public company in texas | Macroeconomics,Macroeconomics,openai_gpt4omini,1,1,1,1,0
+t01_macroeconomics_missing_date,att leapfrogs exxon mobil as largest public company in texas | Macroeconomics,Macroeconomics,anthropic_sonnet,1,1,1,1,0
+t01_macroeconomics_missing_date,att leapfrogs exxon mobil as largest public company in texas | Macroeconomics,Macroeconomics,gemini_flash,1,1,1,1,0
+ba13_securityvalue_increase_securityvalue_missing_date,boeing applauds tax bill with 300 million workforce related an | SecurityValue.Increase_SecurityValue,CSR/Brand,openai_gpt4omini,1,1,1,1,0
+ba13_securityvalue_increase_securityvalue_missing_date,boeing applauds tax bill with 300 million workforce related an | SecurityValue.Increase_SecurityValue,CSR/Brand,anthropic_sonnet,1,1,1,1,1
+ba13_securityvalue_increase_securityvalue_missing_date,boeing applauds tax bill with 300 million workforce related an | SecurityValue.Increase_SecurityValue,CSR/Brand,gemini_flash,1,1,1,1,1
+amzn09_product_service_missing_date,amazon and whole foods are dropping prices this will change gr | Product/Service,Product/Service,openai_gpt4omini,0,1,1,1,1
+amzn09_product_service_missing_date,amazon and whole foods are dropping prices this will change gr | Product/Service,Product/Service,anthropic_sonnet,0,1,1,1,0
+amzn09_product_service_missing_date,amazon and whole foods are dropping prices this will change gr | Product/Service,Product/Service,gemini_flash,0,1,1,1,0
+goog03_product_service_cancellation_recall_missing_date,google leak reveals massive pixel 2 cancellation | Product/Service.Cancellation/Recall,Product/Service,openai_gpt4omini,0,0,1,1,1
+goog03_product_service_cancellation_recall_missing_date,google leak reveals massive pixel 2 cancellation | Product/Service.Cancellation/Recall,Product/Service,anthropic_sonnet,0,1,1,0,0
+goog03_product_service_cancellation_recall_missing_date,google leak reveals massive pixel 2 cancellation | Product/Service.Cancellation/Recall,Product/Service,gemini_flash,0,1,1,1,0
+amzn01_securityvalue_increase_securityvalue_missing_date,jeff bezos fortune continues to soar as amazon stock reaches n | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,1
+amzn01_securityvalue_increase_securityvalue_missing_date,jeff bezos fortune continues to soar as amazon stock reaches n | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+amzn01_securityvalue_increase_securityvalue_missing_date,jeff bezos fortune continues to soar as amazon stock reaches n | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+aal13_employment_start_missing_date,american airlines pilots agree on solution to staff december f | Employment.Start,Employment,openai_gpt4omini,1,0,1,1,0
+aal13_employment_start_missing_date,american airlines pilots agree on solution to staff december f | Employment.Start,Employment,anthropic_sonnet,1,0,1,1,0
+aal13_employment_start_missing_date,american airlines pilots agree on solution to staff december f | Employment.Start,Employment,gemini_flash,0,0,1,1,0
+aal14_employment_compensation_missing_date,american and pilots settle issues after handshake by airline and | Employment.Compensation,Deal,openai_gpt4omini,1,0,1,1,0
+aal14_employment_compensation_missing_date,american and pilots settle issues after handshake by airline and | Employment.Compensation,Deal,anthropic_sonnet,1,0,1,1,0
+aal14_employment_compensation_missing_date,american and pilots settle issues after handshake by airline and | Employment.Compensation,Deal,gemini_flash,0,1,1,1,0
+cost01_merger_acquisition_missing_date,costco adds fresh breads from bakery spurned by starbucks | Merger/Acquisition,Merger/Acquisition,openai_gpt4omini,0,0,1,1,0
+cost01_merger_acquisition_missing_date,costco adds fresh breads from bakery spurned by starbucks | Merger/Acquisition,Merger/Acquisition,anthropic_sonnet,0,0,1,1,0
+cost01_merger_acquisition_missing_date,costco adds fresh breads from bakery spurned by starbucks | Merger/Acquisition,Merger/Acquisition,gemini_flash,0,0,1,1,0
+pg00_legal_appeal_missing_date,companies spurned by supreme court on 1 billion michigan tax c | Legal.Appeal,Legal,openai_gpt4omini,0,0,1,1,0
+pg00_legal_appeal_missing_date,companies spurned by supreme court on 1 billion michigan tax c | Legal.Appeal,Legal,anthropic_sonnet,0,0,1,1,0
+pg00_legal_appeal_missing_date,companies spurned by supreme court on 1 billion michigan tax c | Legal.Appeal,Legal,gemini_flash,0,0,1,0,0
+aal01_facility_open_missing_date,900m investment at phl to bring new traffic control tower re | Facility.Open,Facility,openai_gpt4omini,0,0,1,1,0
+aal01_facility_open_missing_date,900m investment at phl to bring new traffic control tower re | Facility.Open,Facility,anthropic_sonnet,1,1,1,1,1
+aal01_facility_open_missing_date,900m investment at phl to bring new traffic control tower re | Facility.Open,Facility,gemini_flash,1,0,1,1,0
+aapl08_legal_proceeding_missing_date,apple vs qualcomm the itc is in it | Legal.Proceeding,Legal,openai_gpt4omini,0,0,1,1,0
+aapl08_legal_proceeding_missing_date,apple vs qualcomm the itc is in it | Legal.Proceeding,Legal,anthropic_sonnet,1,1,1,1,0
+aapl08_legal_proceeding_missing_date,apple vs qualcomm the itc is in it | Legal.Proceeding,Legal,gemini_flash,0,0,1,1,0
+duk02_investment_missing_date,duke energy doles out 11 m in water resources grants | Investment,Investment,openai_gpt4omini,0,0,1,1,0
+duk02_investment_missing_date,duke energy doles out 11 m in water resources grants | Investment,Investment,anthropic_sonnet,0,0,1,1,0
+duk02_investment_missing_date,duke energy doles out 11 m in water resources grants | Investment,Investment,gemini_flash,1,0,1,1,0
+cmg03_salesvolume_decrease_salesvolume_missing_date,chipotle removes malware after breach strikes payment systems | SalesVolume.Decrease_SalesVolume,CSR/Brand,openai_gpt4omini,1,1,1,1,1
+cmg03_salesvolume_decrease_salesvolume_missing_date,chipotle removes malware after breach strikes payment systems | SalesVolume.Decrease_SalesVolume,CSR/Brand,anthropic_sonnet,1,1,1,0,0
+cmg03_salesvolume_decrease_salesvolume_missing_date,chipotle removes malware after breach strikes payment systems | SalesVolume.Decrease_SalesVolume,CSR/Brand,gemini_flash,1,1,1,0,0
+wfc00_legal_conviction_settlement_missing_date,wells fargo found liable in abusive tax shelter scheme | Legal.Conviction/Settlement,Legal,openai_gpt4omini,1,1,1,0,1
+wfc00_legal_conviction_settlement_missing_date,wells fargo found liable in abusive tax shelter scheme | Legal.Conviction/Settlement,Legal,anthropic_sonnet,1,1,1,1,1
+wfc00_legal_conviction_settlement_missing_date,wells fargo found liable in abusive tax shelter scheme | Legal.Conviction/Settlement,Legal,gemini_flash,1,1,1,1,0
+dis01_rating_maintain_missing_date,this hedge fund bought 250 million of disney stock should yo | Rating.Maintain,Investment,openai_gpt4omini,1,1,1,1,1
+dis01_rating_maintain_missing_date,this hedge fund bought 250 million of disney stock should yo | Rating.Maintain,Investment,anthropic_sonnet,1,0,1,1,0
+dis01_rating_maintain_missing_date,this hedge fund bought 250 million of disney stock should yo | Rating.Maintain,Investment,gemini_flash,0,0,1,1,0
+cmg00_employment_end_missing_date,chipotle cfo says we were losing our edge even before ecoli | Employment.End,CSR/Brand,openai_gpt4omini,0,0,1,1,0
+cmg00_employment_end_missing_date,chipotle cfo says we were losing our edge even before ecoli | Employment.End,CSR/Brand,anthropic_sonnet,0,0,1,1,0
+cmg00_employment_end_missing_date,chipotle cfo says we were losing our edge even before ecoli | Employment.End,CSR/Brand,gemini_flash,0,0,1,1,0
+goog02_legal_conviction_settlement_missing_date,google execs hunker down for summer fight with eu as fines loom | Legal.Conviction/Settlement,Legal,openai_gpt4omini,0,1,1,1,0
+goog02_legal_conviction_settlement_missing_date,google execs hunker down for summer fight with eu as fines loom | Legal.Conviction/Settlement,Legal,anthropic_sonnet,0,0,1,0,1
+goog02_legal_conviction_settlement_missing_date,google execs hunker down for summer fight with eu as fines loom | Legal.Conviction/Settlement,Legal,gemini_flash,1,1,1,0,0
+aapl12_securityvalue_increase_securityvalue_missing_date,apple s stock jumps after keybanc upgrade to buy rating | SecurityValue.Increase_SecurityValue,Rating,openai_gpt4omini,1,1,1,1,0
+aapl12_securityvalue_increase_securityvalue_missing_date,apple s stock jumps after keybanc upgrade to buy rating | SecurityValue.Increase_SecurityValue,Rating,anthropic_sonnet,1,1,1,1,1
+aapl12_securityvalue_increase_securityvalue_missing_date,apple s stock jumps after keybanc upgrade to buy rating | SecurityValue.Increase_SecurityValue,Rating,gemini_flash,1,1,1,1,0
+aapl10_dividend_payment_missing_date,apple s rain of cash washes away debt doubts | Dividend.Payment,Dividend,openai_gpt4omini,0,0,1,1,1
+aapl10_dividend_payment_missing_date,apple s rain of cash washes away debt doubts | Dividend.Payment,Dividend,anthropic_sonnet,1,1,1,1,0
+aapl10_dividend_payment_missing_date,apple s rain of cash washes away debt doubts | Dividend.Payment,Dividend,gemini_flash,0,0,1,1,0
+cvx00_csr_brand_missing_date,chevron investors back off from climate change proposal | CSR/Brand,CSR/Brand,openai_gpt4omini,1,1,0,1,1
+cvx00_csr_brand_missing_date,chevron investors back off from climate change proposal | CSR/Brand,CSR/Brand,anthropic_sonnet,0,1,1,1,0
+cvx00_csr_brand_missing_date,chevron investors back off from climate change proposal | CSR/Brand,CSR/Brand,gemini_flash,0,0,1,1,1
+goog11_securityvalue_increase_securityvalue_missing_date,earnings preview what to expect from alphabet on thursday | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+goog11_securityvalue_increase_securityvalue_missing_date,earnings preview what to expect from alphabet on thursday | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,1
+goog11_securityvalue_increase_securityvalue_missing_date,earnings preview what to expect from alphabet on thursday | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+aapl04_securityvalue_decrease_securityvalue_missing_date,three reasons apple s shares took a drubbing | SecurityValue.Decrease_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,0,0
+aapl04_securityvalue_decrease_securityvalue_missing_date,three reasons apple s shares took a drubbing | SecurityValue.Decrease_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+aapl04_securityvalue_decrease_securityvalue_missing_date,three reasons apple s shares took a drubbing | SecurityValue.Decrease_SecurityValue,SecurityValue,gemini_flash,1,0,1,1,0
+amzn10_securityvalue_increase_securityvalue_missing_date,nokia amazon work signals public cloud telecom takeover says w | SecurityValue.Increase_SecurityValue,Macroeconomics,openai_gpt4omini,1,1,1,1,0
+amzn10_securityvalue_increase_securityvalue_missing_date,nokia amazon work signals public cloud telecom takeover says w | SecurityValue.Increase_SecurityValue,Macroeconomics,anthropic_sonnet,1,1,1,1,0
+amzn10_securityvalue_increase_securityvalue_missing_date,nokia amazon work signals public cloud telecom takeover says w | SecurityValue.Increase_SecurityValue,Macroeconomics,gemini_flash,1,1,1,1,0
+amd12_product_service_launch_missing_date,2 risks amd investors should nt ignore | Product/Service.Launch,Macroeconomics,openai_gpt4omini,1,0,1,1,0
+amd12_product_service_launch_missing_date,2 risks amd investors should nt ignore | Product/Service.Launch,Macroeconomics,anthropic_sonnet,0,1,1,1,0
+amd12_product_service_launch_missing_date,2 risks amd investors should nt ignore | Product/Service.Launch,Macroeconomics,gemini_flash,0,0,1,1,0
+abbv08_rating_pricetarget_missing_date,abbvie shares surge 2 on q2 profit revenue beats | Rating.PriceTarget,Revenue,openai_gpt4omini,1,1,1,1,0
+abbv08_rating_pricetarget_missing_date,abbvie shares surge 2 on q2 profit revenue beats | Rating.PriceTarget,Revenue,anthropic_sonnet,0,1,1,1,1
+abbv08_rating_pricetarget_missing_date,abbvie shares surge 2 on q2 profit revenue beats | Rating.PriceTarget,Revenue,gemini_flash,0,1,1,1,0
+fox00_securityvalue_increase_securityvalue_missing_date,berkshire cuts 21st century fox stake adjusts airline bets | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+fox00_securityvalue_increase_securityvalue_missing_date,berkshire cuts 21st century fox stake adjusts airline bets | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+fox00_securityvalue_increase_securityvalue_missing_date,berkshire cuts 21st century fox stake adjusts airline bets | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+ba16_securityvalue_decrease_securityvalue_missing_date,boeing s stock contributes about 10 of the dow s 1030 point | SecurityValue.Decrease_SecurityValue,SecurityValue,openai_gpt4omini,1,0,1,0,1
+ba16_securityvalue_decrease_securityvalue_missing_date,boeing s stock contributes about 10 of the dow s 1030 point | SecurityValue.Decrease_SecurityValue,SecurityValue,anthropic_sonnet,0,1,1,0,1
+ba16_securityvalue_decrease_securityvalue_missing_date,boeing s stock contributes about 10 of the dow s 1030 point | SecurityValue.Decrease_SecurityValue,SecurityValue,gemini_flash,1,1,1,0,0
+dis02_salesvolume_decrease_salesvolume_missing_date,disney earnings give a look at how espn is facing the future | SalesVolume.Decrease_SalesVolume,Profit/Loss,openai_gpt4omini,0,0,1,1,0
+dis02_salesvolume_decrease_salesvolume_missing_date,disney earnings give a look at how espn is facing the future | SalesVolume.Decrease_SalesVolume,Profit/Loss,anthropic_sonnet,1,1,1,1,0
+dis02_salesvolume_decrease_salesvolume_missing_date,disney earnings give a look at how espn is facing the future | SalesVolume.Decrease_SalesVolume,Profit/Loss,gemini_flash,0,1,1,1,0
+ge13_expense_decrease_expense_missing_date,ge is beating some headwinds but is it enough | Expense.Decrease_Expense,Macroeconomics,openai_gpt4omini,0,0,0,1,0
+ge13_expense_decrease_expense_missing_date,ge is beating some headwinds but is it enough | Expense.Decrease_Expense,Macroeconomics,anthropic_sonnet,0,0,1,1,0
+ge13_expense_decrease_expense_missing_date,ge is beating some headwinds but is it enough | Expense.Decrease_Expense,Macroeconomics,gemini_flash,0,0,1,1,0
+abbv05_legal_conviction_settlement_missing_date,abbvie ordered by jury to pay 15 million to depakote victim | Legal.Conviction/Settlement,Legal,openai_gpt4omini,0,1,1,1,0
+abbv05_legal_conviction_settlement_missing_date,abbvie ordered by jury to pay 15 million to depakote victim | Legal.Conviction/Settlement,Legal,anthropic_sonnet,1,1,1,0,0
+abbv05_legal_conviction_settlement_missing_date,abbvie ordered by jury to pay 15 million to depakote victim | Legal.Conviction/Settlement,Legal,gemini_flash,1,0,1,1,0
+fox02_salesvolume_increase_salesvolume_missing_date,fox msnbc neck and neck in ratings as viewers monitor trump | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,0
+fox02_salesvolume_increase_salesvolume_missing_date,fox msnbc neck and neck in ratings as viewers monitor trump | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,1,1
+fox02_salesvolume_increase_salesvolume_missing_date,fox msnbc neck and neck in ratings as viewers monitor trump | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,1,1,1,1,0
+ba10_securityvalue_increase_securityvalue_missing_date,reduce holdings on boeing and 3 other defense stocks pre earning | SecurityValue.Increase_SecurityValue,Profit/Loss,openai_gpt4omini,0,0,1,1,1
+ba10_securityvalue_increase_securityvalue_missing_date,reduce holdings on boeing and 3 other defense stocks pre earning | SecurityValue.Increase_SecurityValue,Profit/Loss,anthropic_sonnet,1,1,1,1,0
+ba10_securityvalue_increase_securityvalue_missing_date,reduce holdings on boeing and 3 other defense stocks pre earning | SecurityValue.Increase_SecurityValue,Profit/Loss,gemini_flash,1,1,1,1,0
+cost00_salesvolume_increase_salesvolume_missing_date,costco makes gains despite retailer gloom with upbeat earnings | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,1
+cost00_salesvolume_increase_salesvolume_missing_date,costco makes gains despite retailer gloom with upbeat earnings | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,1,0
+cost00_salesvolume_increase_salesvolume_missing_date,costco makes gains despite retailer gloom with upbeat earnings | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,0,1,1,1,0
+nem02_rating_buyoutperform_missing_date,newmont mining ready to shine | Rating.BuyOutperform,Rating,openai_gpt4omini,1,1,1,1,0
+nem02_rating_buyoutperform_missing_date,newmont mining ready to shine | Rating.BuyOutperform,Rating,anthropic_sonnet,1,1,1,1,1
+nem02_rating_buyoutperform_missing_date,newmont mining ready to shine | Rating.BuyOutperform,Rating,gemini_flash,1,1,1,1,0
+amd06_securityvalue_decrease_securityvalue_missing_date,amd s stock tumbles bringing win streak to an abrupt end | SecurityValue.Decrease_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+amd06_securityvalue_decrease_securityvalue_missing_date,amd s stock tumbles bringing win streak to an abrupt end | SecurityValue.Decrease_SecurityValue,SecurityValue,anthropic_sonnet,0,1,1,1,1
+amd06_securityvalue_decrease_securityvalue_missing_date,amd s stock tumbles bringing win streak to an abrupt end | SecurityValue.Decrease_SecurityValue,SecurityValue,gemini_flash,1,0,1,1,0
+amd03_securityvalue_decrease_securityvalue_missing_date,amd s stock slumps after ceo pooh poohed speculation of intel l | SecurityValue.Decrease_SecurityValue,Deal,openai_gpt4omini,1,0,1,1,1
+amd03_securityvalue_decrease_securityvalue_missing_date,amd s stock slumps after ceo pooh poohed speculation of intel l | SecurityValue.Decrease_SecurityValue,Deal,anthropic_sonnet,0,0,1,0,0
+amd03_securityvalue_decrease_securityvalue_missing_date,amd s stock slumps after ceo pooh poohed speculation of intel l | SecurityValue.Decrease_SecurityValue,Deal,gemini_flash,1,0,1,0,0
+wmt04_employment_start_missing_date,here s why the best is yet to come for wal mart stores inc | Employment.Start,Macroeconomics,openai_gpt4omini,1,1,1,1,0
+wmt04_employment_start_missing_date,here s why the best is yet to come for wal mart stores inc | Employment.Start,Macroeconomics,anthropic_sonnet,1,1,1,1,0
+wmt04_employment_start_missing_date,here s why the best is yet to come for wal mart stores inc | Employment.Start,Macroeconomics,gemini_flash,1,1,1,1,0
+dis04_salesvolume_decrease_salesvolume_missing_date,disney s global theme parks saw attendance decline in 2016 bu | SalesVolume.Decrease_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,0
+dis04_salesvolume_decrease_salesvolume_missing_date,disney s global theme parks saw attendance decline in 2016 bu | SalesVolume.Decrease_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,1,1
+dis04_salesvolume_decrease_salesvolume_missing_date,disney s global theme parks saw attendance decline in 2016 bu | SalesVolume.Decrease_SalesVolume,SalesVolume,gemini_flash,1,1,1,1,1
+gs02_securityvalue_increase_securityvalue_missing_date,dow s late afternoon surge into record territory powered by gol | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,1
+gs02_securityvalue_increase_securityvalue_missing_date,dow s late afternoon surge into record territory powered by gol | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,0,0,1,1,0
+gs02_securityvalue_increase_securityvalue_missing_date,dow s late afternoon surge into record territory powered by gol | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+amd07_securityvalue_increase_securityvalue_missing_date,amd reveals epyc details intel vows to top it | SecurityValue.Increase_SecurityValue,Macroeconomics,openai_gpt4omini,0,0,1,1,1
+amd07_securityvalue_increase_securityvalue_missing_date,amd reveals epyc details intel vows to top it | SecurityValue.Increase_SecurityValue,Macroeconomics,anthropic_sonnet,0,0,1,1,0
+amd07_securityvalue_increase_securityvalue_missing_date,amd reveals epyc details intel vows to top it | SecurityValue.Increase_SecurityValue,Macroeconomics,gemini_flash,0,0,1,1,0
+aapl07_product_service_cancellation_recall_missing_date,apple leak reveals massive iphone 8 cancellation | Product/Service.Cancellation/Recall,Product/Service,openai_gpt4omini,1,0,1,1,0
+aapl07_product_service_cancellation_recall_missing_date,apple leak reveals massive iphone 8 cancellation | Product/Service.Cancellation/Recall,Product/Service,anthropic_sonnet,0,1,1,1,0
+aapl07_product_service_cancellation_recall_missing_date,apple leak reveals massive iphone 8 cancellation | Product/Service.Cancellation/Recall,Product/Service,gemini_flash,0,1,1,1,1
+ge05_securityvalue_decrease_securityvalue_missing_date,general electric can aviation make it fly | SecurityValue.Decrease_SecurityValue,Employment,openai_gpt4omini,0,1,1,1,0
+ge05_securityvalue_decrease_securityvalue_missing_date,general electric can aviation make it fly | SecurityValue.Decrease_SecurityValue,Employment,anthropic_sonnet,1,1,1,1,0
+ge05_securityvalue_decrease_securityvalue_missing_date,general electric can aviation make it fly | SecurityValue.Decrease_SecurityValue,Employment,gemini_flash,1,0,1,1,0
+aal03_revenue_increase_revenue_missing_date,american airlines reports load factor increase in may shares g | Revenue.Increase_Revenue,Revenue,openai_gpt4omini,0,1,1,1,0
+aal03_revenue_increase_revenue_missing_date,american airlines reports load factor increase in may shares g | Revenue.Increase_Revenue,Revenue,anthropic_sonnet,0,0,1,1,0
+aal03_revenue_increase_revenue_missing_date,american airlines reports load factor increase in may shares g | Revenue.Increase_Revenue,Revenue,gemini_flash,0,0,1,1,1
+amd05_securityvalue_increase_securityvalue_missing_date,amd s stock surges on heavy volume as gpu product demand fuels | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+amd05_securityvalue_increase_securityvalue_missing_date,amd s stock surges on heavy volume as gpu product demand fuels | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,0,0,1,1,1
+amd05_securityvalue_increase_securityvalue_missing_date,amd s stock surges on heavy volume as gpu product demand fuels | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,0,1,1,0
+cmg04_salesvolume_increase_salesvolume_missing_date,chipotle is betting on digital | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,0
+cmg04_salesvolume_increase_salesvolume_missing_date,chipotle is betting on digital | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,1,1
+cmg04_salesvolume_increase_salesvolume_missing_date,chipotle is betting on digital | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,1,1,1,1,0
+nem06_securityvalue_increase_securityvalue_missing_date,newmont mining is investors gold stock to buy | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+nem06_securityvalue_increase_securityvalue_missing_date,newmont mining is investors gold stock to buy | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+nem06_securityvalue_increase_securityvalue_missing_date,newmont mining is investors gold stock to buy | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+aal07_securityvalue_increase_securityvalue_missing_date,american airlines stock rallies after second upgrade in two da | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,1
+aal07_securityvalue_increase_securityvalue_missing_date,american airlines stock rallies after second upgrade in two da | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,0,1,1,1,0
+aal07_securityvalue_increase_securityvalue_missing_date,american airlines stock rallies after second upgrade in two da | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,0,1,1,1
+ba05_expense_decrease_expense_missing_date,boeing defense to cut 50 executive jobs in management shakeup | Expense.Decrease_Expense,Employment,openai_gpt4omini,1,1,1,1,0
+ba05_expense_decrease_expense_missing_date,boeing defense to cut 50 executive jobs in management shakeup | Expense.Decrease_Expense,Employment,anthropic_sonnet,1,1,1,1,0
+ba05_expense_decrease_expense_missing_date,boeing defense to cut 50 executive jobs in management shakeup | Expense.Decrease_Expense,Employment,gemini_flash,1,1,1,1,0
+f14_financialreport_miss_missing_date,ford is the next ge and shorts should be salivating | FinancialReport.Miss,Macroeconomics,openai_gpt4omini,0,1,1,1,0
+f14_financialreport_miss_missing_date,ford is the next ge and shorts should be salivating | FinancialReport.Miss,Macroeconomics,anthropic_sonnet,0,1,1,1,0
+f14_financialreport_miss_missing_date,ford is the next ge and shorts should be salivating | FinancialReport.Miss,Macroeconomics,gemini_flash,1,1,1,1,0
+aapl01_securityvalue_increase_securityvalue_missing_date,here are the six dow stocks experts say have the most upside | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,0
+aapl01_securityvalue_increase_securityvalue_missing_date,here are the six dow stocks experts say have the most upside | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,0,1,1,0
+aapl01_securityvalue_increase_securityvalue_missing_date,here are the six dow stocks experts say have the most upside | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+fb14_securityvalue_decrease_securityvalue_missing_date,facebook s wary dance with the beltway | SecurityValue.Decrease_SecurityValue,SecurityValue,openai_gpt4omini,0,0,1,1,0
+fb14_securityvalue_decrease_securityvalue_missing_date,facebook s wary dance with the beltway | SecurityValue.Decrease_SecurityValue,SecurityValue,anthropic_sonnet,0,0,1,1,0
+fb14_securityvalue_decrease_securityvalue_missing_date,facebook s wary dance with the beltway | SecurityValue.Decrease_SecurityValue,SecurityValue,gemini_flash,0,0,1,1,0
+cvx04_securityvalue_increase_securityvalue_missing_date,strong crude oil no help for chevron exxon mobil | SecurityValue.Increase_SecurityValue,FinancialReport,openai_gpt4omini,0,0,1,1,1
+cvx04_securityvalue_increase_securityvalue_missing_date,strong crude oil no help for chevron exxon mobil | SecurityValue.Increase_SecurityValue,FinancialReport,anthropic_sonnet,0,0,1,1,0
+cvx04_securityvalue_increase_securityvalue_missing_date,strong crude oil no help for chevron exxon mobil | SecurityValue.Increase_SecurityValue,FinancialReport,gemini_flash,0,1,1,1,0
+gm03_salesvolume_decrease_salesvolume_missing_date,general motors cadillac sales are booming in china | SalesVolume.Decrease_SalesVolume,SalesVolume,openai_gpt4omini,0,0,1,1,1
+gm03_salesvolume_decrease_salesvolume_missing_date,general motors cadillac sales are booming in china | SalesVolume.Decrease_SalesVolume,SalesVolume,anthropic_sonnet,0,0,1,1,1
+gm03_salesvolume_decrease_salesvolume_missing_date,general motors cadillac sales are booming in china | SalesVolume.Decrease_SalesVolume,SalesVolume,gemini_flash,0,0,1,1,0
+ba12_securityvalue_increase_securityvalue_missing_date,underappreciated why boeing s astronomical rise might not | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,1
+ba12_securityvalue_increase_securityvalue_missing_date,underappreciated why boeing s astronomical rise might not | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+ba12_securityvalue_increase_securityvalue_missing_date,underappreciated why boeing s astronomical rise might not | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+f15_salesvolume_increase_salesvolume_missing_date,ford is at a crossroad of danger and opportunity in china | SalesVolume.Increase_SalesVolume,Macroeconomics,openai_gpt4omini,0,0,1,1,1
+f15_salesvolume_increase_salesvolume_missing_date,ford is at a crossroad of danger and opportunity in china | SalesVolume.Increase_SalesVolume,Macroeconomics,anthropic_sonnet,0,0,1,1,0
+f15_salesvolume_increase_salesvolume_missing_date,ford is at a crossroad of danger and opportunity in china | SalesVolume.Increase_SalesVolume,Macroeconomics,gemini_flash,0,0,1,1,0
+ge10_securityvalue_decrease_securityvalue_missing_date,ge s stock tumbles toward second 6 session losing streak this m | SecurityValue.Decrease_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,0,0
+ge10_securityvalue_decrease_securityvalue_missing_date,ge s stock tumbles toward second 6 session losing streak this m | SecurityValue.Decrease_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+ge10_securityvalue_decrease_securityvalue_missing_date,ge s stock tumbles toward second 6 session losing streak this m | SecurityValue.Decrease_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,1
+ba15_securityvalue_increase_securityvalue_missing_date,should boeing buy ge aviation | SecurityValue.Increase_SecurityValue,Merger/Acquisition,openai_gpt4omini,1,0,1,1,0
+ba15_securityvalue_increase_securityvalue_missing_date,should boeing buy ge aviation | SecurityValue.Increase_SecurityValue,Merger/Acquisition,anthropic_sonnet,1,0,1,1,1
+ba15_securityvalue_increase_securityvalue_missing_date,should boeing buy ge aviation | SecurityValue.Increase_SecurityValue,Merger/Acquisition,gemini_flash,1,1,1,1,1
+wmt05_financialreport_miss_missing_date,walmart stock nears key support after earnings miss | FinancialReport.Miss,FinancialReport,openai_gpt4omini,1,1,1,1,0
+wmt05_financialreport_miss_missing_date,walmart stock nears key support after earnings miss | FinancialReport.Miss,FinancialReport,anthropic_sonnet,1,1,1,1,1
+wmt05_financialreport_miss_missing_date,walmart stock nears key support after earnings miss | FinancialReport.Miss,FinancialReport,gemini_flash,0,0,1,0,0
+amzn04_revenue_increase_revenue_missing_date,3 reasons amazon is nt done growing yet | Revenue.Increase_Revenue,Macroeconomics,openai_gpt4omini,1,1,1,1,0
+amzn04_revenue_increase_revenue_missing_date,3 reasons amazon is nt done growing yet | Revenue.Increase_Revenue,Macroeconomics,anthropic_sonnet,1,1,1,1,0
+amzn04_revenue_increase_revenue_missing_date,3 reasons amazon is nt done growing yet | Revenue.Increase_Revenue,Macroeconomics,gemini_flash,1,1,1,1,0
+aal08_product_service_launch_missing_date,airberlin goes bankrupt soon after announcing major chicago expa | Product/Service.Launch,Product/Service,openai_gpt4omini,0,0,1,1,1
+aal08_product_service_launch_missing_date,airberlin goes bankrupt soon after announcing major chicago expa | Product/Service.Launch,Product/Service,anthropic_sonnet,1,1,1,1,0
+aal08_product_service_launch_missing_date,airberlin goes bankrupt soon after announcing major chicago expa | Product/Service.Launch,Product/Service,gemini_flash,0,1,1,1,1
+gm02_salesvolume_increase_salesvolume_missing_date,general motors sales slip on rental fleet cutbacks | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,1
+gm02_salesvolume_increase_salesvolume_missing_date,general motors sales slip on rental fleet cutbacks | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,0,0
+gm02_salesvolume_increase_salesvolume_missing_date,general motors sales slip on rental fleet cutbacks | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,1,1,1,0,0
+f02_salesvolume_increase_salesvolume_missing_date,ford ekes out a sales gain on pickups and fleet deliveries | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,0,1,1,1
+f02_salesvolume_increase_salesvolume_missing_date,ford ekes out a sales gain on pickups and fleet deliveries | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,1,1,1,0
+f02_salesvolume_increase_salesvolume_missing_date,ford ekes out a sales gain on pickups and fleet deliveries | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,1,1,1,1,0
+abbv13_securityvalue_increase_securityvalue_missing_date,the hot stock biggest loser abbvie wynn resorts | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,0,0,1,1,0
+abbv13_securityvalue_increase_securityvalue_missing_date,the hot stock biggest loser abbvie wynn resorts | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,0
+abbv13_securityvalue_increase_securityvalue_missing_date,the hot stock biggest loser abbvie wynn resorts | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,0,1,1,1,0
+ge11_securityvalue_increase_securityvalue_missing_date,ge s stock bounces sharply to pace dow gainers | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,0,0,1,1,1
+ge11_securityvalue_increase_securityvalue_missing_date,ge s stock bounces sharply to pace dow gainers | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,0,1,1,0
+ge11_securityvalue_increase_securityvalue_missing_date,ge s stock bounces sharply to pace dow gainers | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,0,0,1,1,1
+aapl13_securityvalue_increase_securityvalue_missing_date,stocks mixed this california builder breaks out what to watc | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,0,0,0,1,0
+aapl13_securityvalue_increase_securityvalue_missing_date,stocks mixed this california builder breaks out what to watc | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,1
+aapl13_securityvalue_increase_securityvalue_missing_date,stocks mixed this california builder breaks out what to watc | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0
+amzn07_product_service_launch_missing_date,amazoncom just crushed department store stocks again with prime | Product/Service.Launch,Product/Service,openai_gpt4omini,0,0,1,1,1
+amzn07_product_service_launch_missing_date,amazoncom just crushed department store stocks again with prime | Product/Service.Launch,Product/Service,anthropic_sonnet,1,1,1,1,0
+amzn07_product_service_launch_missing_date,amazoncom just crushed department store stocks again with prime | Product/Service.Launch,Product/Service,gemini_flash,1,0,1,0,1
+amd13_rating_sellunderperform_missing_date,advanced micro sell says morgan stanley expectations too h | Rating.SellUnderperform,Rating,openai_gpt4omini,0,1,1,1,0
+amd13_rating_sellunderperform_missing_date,advanced micro sell says morgan stanley expectations too h | Rating.SellUnderperform,Rating,anthropic_sonnet,0,0,1,1,0
+amd13_rating_sellunderperform_missing_date,advanced micro sell says morgan stanley expectations too h | Rating.SellUnderperform,Rating,gemini_flash,1,0,1,0,0
+dis12_revenue_decrease_revenue_missing_date,disney s fiscal 2017 in review | Revenue.Decrease_Revenue,Revenue,openai_gpt4omini,1,0,1,1,0
+dis12_revenue_decrease_revenue_missing_date,disney s fiscal 2017 in review | Revenue.Decrease_Revenue,Revenue,anthropic_sonnet,1,1,1,1,1
+dis12_revenue_decrease_revenue_missing_date,disney s fiscal 2017 in review | Revenue.Decrease_Revenue,Revenue,gemini_flash,0,0,1,1,0
+ba06_salesvolume_increase_salesvolume_missing_date,aircraft leasing firms lift boeing s dreamliner higher at the p | SalesVolume.Increase_SalesVolume,SalesVolume,openai_gpt4omini,1,1,1,1,0
+ba06_salesvolume_increase_salesvolume_missing_date,aircraft leasing firms lift boeing s dreamliner higher at the p | SalesVolume.Increase_SalesVolume,SalesVolume,anthropic_sonnet,1,0,1,1,0
+ba06_salesvolume_increase_salesvolume_missing_date,aircraft leasing firms lift boeing s dreamliner higher at the p | SalesVolume.Increase_SalesVolume,SalesVolume,gemini_flash,1,0,1,1,0
+ge12_rating_credit_debt_missing_date,ge s credit downgraded at fitch outlook remains negative | Rating.Credit/Debt,Rating,openai_gpt4omini,0,0,1,1,0
+ge12_rating_credit_debt_missing_date,ge s credit downgraded at fitch outlook remains negative | Rating.Credit/Debt,Rating,anthropic_sonnet,1,0,1,1,0
+ge12_rating_credit_debt_missing_date,ge s credit downgraded at fitch outlook remains negative | Rating.Credit/Debt,Rating,gemini_flash,0,0,1,1,0
+abbv07_rating_buyoutperform_missing_date,abbvie has the most valuable late stage pipeline but is its s | Rating.BuyOutperform,Rating,openai_gpt4omini,1,0,1,1,0
+abbv07_rating_buyoutperform_missing_date,abbvie has the most valuable late stage pipeline but is its s | Rating.BuyOutperform,Rating,anthropic_sonnet,1,1,1,1,1
+abbv07_rating_buyoutperform_missing_date,abbvie has the most valuable late stage pipeline but is its s | Rating.BuyOutperform,Rating,gemini_flash,1,1,1,1,0
+abbv10_securityvalue_increase_securityvalue_missing_date,abbvie you re upgrading it now | SecurityValue.Increase_SecurityValue,SecurityValue,openai_gpt4omini,0,0,1,1,0
+abbv10_securityvalue_increase_securityvalue_missing_date,abbvie you re upgrading it now | SecurityValue.Increase_SecurityValue,SecurityValue,anthropic_sonnet,0,0,1,1,0
+abbv10_securityvalue_increase_securityvalue_missing_date,abbvie you re upgrading it now | SecurityValue.Increase_SecurityValue,SecurityValue,gemini_flash,0,0,1,0,1
+abbv04_product_service_launch_missing_date,is this dividend aristocrat ridiculously undervalued | Product/Service.Launch,Product/Service,openai_gpt4omini,1,0,1,1,0
+abbv04_product_service_launch_missing_date,is this dividend aristocrat ridiculously undervalued | Product/Service.Launch,Product/Service,anthropic_sonnet,0,1,1,1,0
+abbv04_product_service_launch_missing_date,is this dividend aristocrat ridiculously undervalued | Product/Service.Launch,Product/Service,gemini_flash,1,0,1,1,0
+abbv09_securityvalue_increase_securityvalue_missing_date,abbvie scores 2 wins 1 threatens regeneron | SecurityValue.Increase_SecurityValue,Product/Service,openai_gpt4omini,1,1,1,1,1
+abbv09_securityvalue_increase_securityvalue_missing_date,abbvie scores 2 wins 1 threatens regeneron | SecurityValue.Increase_SecurityValue,Product/Service,anthropic_sonnet,1,0,1,1,0
+abbv09_securityvalue_increase_securityvalue_missing_date,abbvie scores 2 wins 1 threatens regeneron | SecurityValue.Increase_SecurityValue,Product/Service,gemini_flash,1,0,1,1,0
+abbv12_rating_pricetarget_missing_date,top biotech stock near buy zone shows positive drug trial resu | Rating.PriceTarget,SecurityValue,openai_gpt4omini,1,1,1,1,1
+abbv12_rating_pricetarget_missing_date,top biotech stock near buy zone shows positive drug trial resu | Rating.PriceTarget,SecurityValue,anthropic_sonnet,1,1,1,1,0
+abbv12_rating_pricetarget_missing_date,top biotech stock near buy zone shows positive drug trial resu | Rating.PriceTarget,SecurityValue,gemini_flash,1,1,1,1,0
+jnj02_product_service_launch_missing_date,jj drug prevents heart attacks at cost of amputated toes | Product/Service.Launch,Product/Service,openai_gpt4omini,0,0,1,1,0
+jnj02_product_service_launch_missing_date,jj drug prevents heart attacks at cost of amputated toes | Product/Service.Launch,Product/Service,anthropic_sonnet,0,0,1,1,0
+jnj02_product_service_launch_missing_date,jj drug prevents heart attacks at cost of amputated toes | Product/Service.Launch,Product/Service,gemini_flash,0,0,1,1,0
+aal00_revenue_increase_revenue_missing_date,american airlines up on record april traffic upbeat q2 view | Revenue.Increase_Revenue,FinancialReport,openai_gpt4omini,1,1,1,1,0
+aal00_revenue_increase_revenue_missing_date,american airlines up on record april traffic upbeat q2 view | Revenue.Increase_Revenue,FinancialReport,anthropic_sonnet,0,0,1,1,0
+aal00_revenue_increase_revenue_missing_date,american airlines up on record april traffic upbeat q2 view | Revenue.Increase_Revenue,FinancialReport,gemini_flash,1,1,1,1,0
+chk01_securityvalue_stable_securityvalue_missing_date,what are the short interest trends in chesapeake energy stock | SecurityValue.Stable_SecurityValue,SecurityValue,openai_gpt4omini,1,1,1,1,1
+chk01_securityvalue_stable_securityvalue_missing_date,what are the short interest trends in chesapeake energy stock | SecurityValue.Stable_SecurityValue,SecurityValue,anthropic_sonnet,1,1,1,1,1
+chk01_securityvalue_stable_securityvalue_missing_date,what are the short interest trends in chesapeake energy stock | SecurityValue.Stable_SecurityValue,SecurityValue,gemini_flash,1,1,1,1,0

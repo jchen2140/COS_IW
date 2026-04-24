@@ -1,0 +1,157 @@
+event,event_label,event_type,source,overall_pairwise_kappa_mean
+t01_macroeconomics_missing_date,att leapfrogs exxon mobil as largest public company in texas | Macroeconomics,Macroeconomics,X,0.313464018894418
+t01_macroeconomics_missing_date,att leapfrogs exxon mobil as largest public company in texas | Macroeconomics,Macroeconomics,SENTIVENT,0.28010200954111164
+ba13_securityvalue_increase_securityvalue_missing_date,boeing applauds tax bill with 300 million workforce related an | SecurityValue.Increase_SecurityValue,CSR/Brand,X,0.0
+ba13_securityvalue_increase_securityvalue_missing_date,boeing applauds tax bill with 300 million workforce related an | SecurityValue.Increase_SecurityValue,CSR/Brand,SENTIVENT,0.16229124789825664
+amzn09_product_service_missing_date,amazon and whole foods are dropping prices this will change gr | Product/Service,Product/Service,X,0.21557830570023645
+amzn09_product_service_missing_date,amazon and whole foods are dropping prices this will change gr | Product/Service,Product/Service,SENTIVENT,0.44705282132227103
+goog03_product_service_cancellation_recall_missing_date,google leak reveals massive pixel 2 cancellation | Product/Service.Cancellation/Recall,Product/Service,X,0.039639428160106224
+goog03_product_service_cancellation_recall_missing_date,google leak reveals massive pixel 2 cancellation | Product/Service.Cancellation/Recall,Product/Service,SENTIVENT,0.2980372008592222
+amzn01_securityvalue_increase_securityvalue_missing_date,jeff bezos fortune continues to soar as amazon stock reaches n | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0
+amzn01_securityvalue_increase_securityvalue_missing_date,jeff bezos fortune continues to soar as amazon stock reaches n | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.17769717807668473
+aal13_employment_start_missing_date,american airlines pilots agree on solution to staff december f | Employment.Start,Employment,X,0.3183837042720356
+aal13_employment_start_missing_date,american airlines pilots agree on solution to staff december f | Employment.Start,Employment,SENTIVENT,0.41507459860401036
+aal14_employment_compensation_missing_date,american and pilots settle issues after handshake by airline and | Employment.Compensation,Deal,X,0.2670390574955009
+aal14_employment_compensation_missing_date,american and pilots settle issues after handshake by airline and | Employment.Compensation,Deal,SENTIVENT,0.15710578611122264
+cost01_merger_acquisition_missing_date,costco adds fresh breads from bakery spurned by starbucks | Merger/Acquisition,Merger/Acquisition,X,0.5070357800866275
+cost01_merger_acquisition_missing_date,costco adds fresh breads from bakery spurned by starbucks | Merger/Acquisition,Merger/Acquisition,SENTIVENT,0.44681686745640237
+pg00_legal_appeal_missing_date,companies spurned by supreme court on 1 billion michigan tax c | Legal.Appeal,Legal,X,0.2817397977909176
+pg00_legal_appeal_missing_date,companies spurned by supreme court on 1 billion michigan tax c | Legal.Appeal,Legal,SENTIVENT,0.18478143763491378
+aal01_facility_open_missing_date,900m investment at phl to bring new traffic control tower re | Facility.Open,Facility,X,0.3499527533490638
+aal01_facility_open_missing_date,900m investment at phl to bring new traffic control tower re | Facility.Open,Facility,SENTIVENT,0.29222358401425613
+aapl08_legal_proceeding_missing_date,apple vs qualcomm the itc is in it | Legal.Proceeding,Legal,X,0.3516332990505443
+aapl08_legal_proceeding_missing_date,apple vs qualcomm the itc is in it | Legal.Proceeding,Legal,SENTIVENT,0.21610648830474352
+duk02_investment_missing_date,duke energy doles out 11 m in water resources grants | Investment,Investment,X,0.3223343798067716
+duk02_investment_missing_date,duke energy doles out 11 m in water resources grants | Investment,Investment,SENTIVENT,0.262577768787258
+cmg03_salesvolume_decrease_salesvolume_missing_date,chipotle removes malware after breach strikes payment systems | SalesVolume.Decrease_SalesVolume,CSR/Brand,X,0.10580207477861873
+cmg03_salesvolume_decrease_salesvolume_missing_date,chipotle removes malware after breach strikes payment systems | SalesVolume.Decrease_SalesVolume,CSR/Brand,SENTIVENT,0.32031520444320566
+wfc00_legal_conviction_settlement_missing_date,wells fargo found liable in abusive tax shelter scheme | Legal.Conviction/Settlement,Legal,X,0.0
+wfc00_legal_conviction_settlement_missing_date,wells fargo found liable in abusive tax shelter scheme | Legal.Conviction/Settlement,Legal,SENTIVENT,0.18928555215913967
+dis01_rating_maintain_missing_date,this hedge fund bought 250 million of disney stock should yo | Rating.Maintain,Investment,X,0.21066045052827606
+dis01_rating_maintain_missing_date,this hedge fund bought 250 million of disney stock should yo | Rating.Maintain,Investment,SENTIVENT,0.3339983855348664
+cmg00_employment_end_missing_date,chipotle cfo says we were losing our edge even before ecoli | Employment.End,CSR/Brand,X,0.2431706425123171
+cmg00_employment_end_missing_date,chipotle cfo says we were losing our edge even before ecoli | Employment.End,CSR/Brand,SENTIVENT,0.26348134401606693
+goog02_legal_conviction_settlement_missing_date,google execs hunker down for summer fight with eu as fines loom | Legal.Conviction/Settlement,Legal,X,0.16355019744850255
+goog02_legal_conviction_settlement_missing_date,google execs hunker down for summer fight with eu as fines loom | Legal.Conviction/Settlement,Legal,SENTIVENT,0.23079807108033937
+aapl12_securityvalue_increase_securityvalue_missing_date,apple s stock jumps after keybanc upgrade to buy rating | SecurityValue.Increase_SecurityValue,Rating,X,0.04473304473304473
+aapl12_securityvalue_increase_securityvalue_missing_date,apple s stock jumps after keybanc upgrade to buy rating | SecurityValue.Increase_SecurityValue,Rating,SENTIVENT,0.33390240666102733
+aapl10_dividend_payment_missing_date,apple s rain of cash washes away debt doubts | Dividend.Payment,Dividend,X,0.32478336232277444
+aapl10_dividend_payment_missing_date,apple s rain of cash washes away debt doubts | Dividend.Payment,Dividend,SENTIVENT,0.23590734396261862
+cvx00_csr_brand_missing_date,chevron investors back off from climate change proposal | CSR/Brand,CSR/Brand,X,0.4266921463902888
+cvx00_csr_brand_missing_date,chevron investors back off from climate change proposal | CSR/Brand,CSR/Brand,SENTIVENT,0.38463069116098225
+goog11_securityvalue_increase_securityvalue_missing_date,earnings preview what to expect from alphabet on thursday | SecurityValue.Increase_SecurityValue,SecurityValue,X,-0.03333333333333333
+goog11_securityvalue_increase_securityvalue_missing_date,earnings preview what to expect from alphabet on thursday | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.23519310485369388
+aapl04_securityvalue_decrease_securityvalue_missing_date,three reasons apple s shares took a drubbing | SecurityValue.Decrease_SecurityValue,SecurityValue,X,0.014160919540229886
+aapl04_securityvalue_decrease_securityvalue_missing_date,three reasons apple s shares took a drubbing | SecurityValue.Decrease_SecurityValue,SecurityValue,SENTIVENT,0.3220888386613347
+amzn10_securityvalue_increase_securityvalue_missing_date,nokia amazon work signals public cloud telecom takeover says w | SecurityValue.Increase_SecurityValue,Macroeconomics,X,0.23060606060606062
+amzn10_securityvalue_increase_securityvalue_missing_date,nokia amazon work signals public cloud telecom takeover says w | SecurityValue.Increase_SecurityValue,Macroeconomics,SENTIVENT,0.3001971158833904
+amd12_product_service_launch_missing_date,2 risks amd investors should nt ignore | Product/Service.Launch,Macroeconomics,X,0.30289190548754574
+amd12_product_service_launch_missing_date,2 risks amd investors should nt ignore | Product/Service.Launch,Macroeconomics,SENTIVENT,0.275047226926964
+abbv08_rating_pricetarget_missing_date,abbvie shares surge 2 on q2 profit revenue beats | Rating.PriceTarget,Revenue,X,0.4008715699505173
+abbv08_rating_pricetarget_missing_date,abbvie shares surge 2 on q2 profit revenue beats | Rating.PriceTarget,Revenue,SENTIVENT,0.3693591505645835
+fox00_securityvalue_increase_securityvalue_missing_date,berkshire cuts 21st century fox stake adjusts airline bets | SecurityValue.Increase_SecurityValue,SecurityValue,X,-0.011974380395433026
+fox00_securityvalue_increase_securityvalue_missing_date,berkshire cuts 21st century fox stake adjusts airline bets | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.23516449644701307
+ba16_securityvalue_decrease_securityvalue_missing_date,boeing s stock contributes about 10 of the dow s 1030 point | SecurityValue.Decrease_SecurityValue,SecurityValue,X,-0.004093567251461989
+ba16_securityvalue_decrease_securityvalue_missing_date,boeing s stock contributes about 10 of the dow s 1030 point | SecurityValue.Decrease_SecurityValue,SecurityValue,SENTIVENT,0.2774789830804972
+dis02_salesvolume_decrease_salesvolume_missing_date,disney earnings give a look at how espn is facing the future | SalesVolume.Decrease_SalesVolume,Profit/Loss,X,0.0
+dis02_salesvolume_decrease_salesvolume_missing_date,disney earnings give a look at how espn is facing the future | SalesVolume.Decrease_SalesVolume,Profit/Loss,SENTIVENT,0.32333843979005306
+ge13_expense_decrease_expense_missing_date,ge is beating some headwinds but is it enough | Expense.Decrease_Expense,Macroeconomics,X,0.22262264589630318
+ge13_expense_decrease_expense_missing_date,ge is beating some headwinds but is it enough | Expense.Decrease_Expense,Macroeconomics,SENTIVENT,0.39591289247816425
+abbv05_legal_conviction_settlement_missing_date,abbvie ordered by jury to pay 15 million to depakote victim | Legal.Conviction/Settlement,Legal,X,0.019157088122605366
+abbv05_legal_conviction_settlement_missing_date,abbvie ordered by jury to pay 15 million to depakote victim | Legal.Conviction/Settlement,Legal,SENTIVENT,0.3214169330215784
+fox02_salesvolume_increase_salesvolume_missing_date,fox msnbc neck and neck in ratings as viewers monitor trump | SalesVolume.Increase_SalesVolume,SalesVolume,X,0.040123456790123455
+fox02_salesvolume_increase_salesvolume_missing_date,fox msnbc neck and neck in ratings as viewers monitor trump | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.3315775022396414
+ba10_securityvalue_increase_securityvalue_missing_date,reduce holdings on boeing and 3 other defense stocks pre earning | SecurityValue.Increase_SecurityValue,Profit/Loss,X,0.25
+ba10_securityvalue_increase_securityvalue_missing_date,reduce holdings on boeing and 3 other defense stocks pre earning | SecurityValue.Increase_SecurityValue,Profit/Loss,SENTIVENT,0.23638065386792043
+cost00_salesvolume_increase_salesvolume_missing_date,costco makes gains despite retailer gloom with upbeat earnings | SalesVolume.Increase_SalesVolume,SalesVolume,X,-0.013333333333333334
+cost00_salesvolume_increase_salesvolume_missing_date,costco makes gains despite retailer gloom with upbeat earnings | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.31067741035027846
+nem02_rating_buyoutperform_missing_date,newmont mining ready to shine | Rating.BuyOutperform,Rating,X,0.0
+nem02_rating_buyoutperform_missing_date,newmont mining ready to shine | Rating.BuyOutperform,Rating,SENTIVENT,0.4162637904117765
+amd06_securityvalue_decrease_securityvalue_missing_date,amd s stock tumbles bringing win streak to an abrupt end | SecurityValue.Decrease_SecurityValue,SecurityValue,X,-0.017768780926675665
+amd06_securityvalue_decrease_securityvalue_missing_date,amd s stock tumbles bringing win streak to an abrupt end | SecurityValue.Decrease_SecurityValue,SecurityValue,SENTIVENT,0.14840814467000424
+amd03_securityvalue_decrease_securityvalue_missing_date,amd s stock slumps after ceo pooh poohed speculation of intel l | SecurityValue.Decrease_SecurityValue,Deal,X,0.013257575757575756
+amd03_securityvalue_decrease_securityvalue_missing_date,amd s stock slumps after ceo pooh poohed speculation of intel l | SecurityValue.Decrease_SecurityValue,Deal,SENTIVENT,0.13227571344245925
+wmt04_employment_start_missing_date,here s why the best is yet to come for wal mart stores inc | Employment.Start,Macroeconomics,X,0.4693036395003576
+wmt04_employment_start_missing_date,here s why the best is yet to come for wal mart stores inc | Employment.Start,Macroeconomics,SENTIVENT,0.3554708771913073
+dis04_salesvolume_decrease_salesvolume_missing_date,disney s global theme parks saw attendance decline in 2016 bu | SalesVolume.Decrease_SalesVolume,SalesVolume,X,0.042884990253411304
+dis04_salesvolume_decrease_salesvolume_missing_date,disney s global theme parks saw attendance decline in 2016 bu | SalesVolume.Decrease_SalesVolume,SalesVolume,SENTIVENT,0.09231329690346084
+gs02_securityvalue_increase_securityvalue_missing_date,dow s late afternoon surge into record territory powered by gol | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0
+gs02_securityvalue_increase_securityvalue_missing_date,dow s late afternoon surge into record territory powered by gol | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.21965014644648512
+amd07_securityvalue_increase_securityvalue_missing_date,amd reveals epyc details intel vows to top it | SecurityValue.Increase_SecurityValue,Macroeconomics,X,0.3957156308851224
+amd07_securityvalue_increase_securityvalue_missing_date,amd reveals epyc details intel vows to top it | SecurityValue.Increase_SecurityValue,Macroeconomics,SENTIVENT,0.3538757538757539
+aapl07_product_service_cancellation_recall_missing_date,apple leak reveals massive iphone 8 cancellation | Product/Service.Cancellation/Recall,Product/Service,X,-0.007977207977207978
+aapl07_product_service_cancellation_recall_missing_date,apple leak reveals massive iphone 8 cancellation | Product/Service.Cancellation/Recall,Product/Service,SENTIVENT,0.31071916525854887
+ge05_securityvalue_decrease_securityvalue_missing_date,general electric can aviation make it fly | SecurityValue.Decrease_SecurityValue,Employment,X,-0.001058201058201058
+ge05_securityvalue_decrease_securityvalue_missing_date,general electric can aviation make it fly | SecurityValue.Decrease_SecurityValue,Employment,SENTIVENT,0.30023032079810935
+aal03_revenue_increase_revenue_missing_date,american airlines reports load factor increase in may shares g | Revenue.Increase_Revenue,Revenue,X,0.41435604350222244
+aal03_revenue_increase_revenue_missing_date,american airlines reports load factor increase in may shares g | Revenue.Increase_Revenue,Revenue,SENTIVENT,0.43377559133373084
+amd05_securityvalue_increase_securityvalue_missing_date,amd s stock surges on heavy volume as gpu product demand fuels | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0
+amd05_securityvalue_increase_securityvalue_missing_date,amd s stock surges on heavy volume as gpu product demand fuels | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.363168247662688
+cmg04_salesvolume_increase_salesvolume_missing_date,chipotle is betting on digital | SalesVolume.Increase_SalesVolume,SalesVolume,X,0.3314814814814815
+cmg04_salesvolume_increase_salesvolume_missing_date,chipotle is betting on digital | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.20419622590221503
+nem06_securityvalue_increase_securityvalue_missing_date,newmont mining is investors gold stock to buy | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0029239766081871343
+nem06_securityvalue_increase_securityvalue_missing_date,newmont mining is investors gold stock to buy | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.4581229350439946
+aal07_securityvalue_increase_securityvalue_missing_date,american airlines stock rallies after second upgrade in two da | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0
+aal07_securityvalue_increase_securityvalue_missing_date,american airlines stock rallies after second upgrade in two da | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.2928257102039678
+ba05_expense_decrease_expense_missing_date,boeing defense to cut 50 executive jobs in management shakeup | Expense.Decrease_Expense,Employment,X,0.05555555555555555
+ba05_expense_decrease_expense_missing_date,boeing defense to cut 50 executive jobs in management shakeup | Expense.Decrease_Expense,Employment,SENTIVENT,0.2042664742664743
+f14_financialreport_miss_missing_date,ford is the next ge and shorts should be salivating | FinancialReport.Miss,Macroeconomics,X,0.010711768851303736
+f14_financialreport_miss_missing_date,ford is the next ge and shorts should be salivating | FinancialReport.Miss,Macroeconomics,SENTIVENT,0.26821239746880904
+aapl01_securityvalue_increase_securityvalue_missing_date,here are the six dow stocks experts say have the most upside | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.0
+aapl01_securityvalue_increase_securityvalue_missing_date,here are the six dow stocks experts say have the most upside | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.1580479420930913
+fb14_securityvalue_decrease_securityvalue_missing_date,facebook s wary dance with the beltway | SecurityValue.Decrease_SecurityValue,SecurityValue,X,0.08890281861966749
+fb14_securityvalue_decrease_securityvalue_missing_date,facebook s wary dance with the beltway | SecurityValue.Decrease_SecurityValue,SecurityValue,SENTIVENT,0.34488939331127355
+cvx04_securityvalue_increase_securityvalue_missing_date,strong crude oil no help for chevron exxon mobil | SecurityValue.Increase_SecurityValue,FinancialReport,X,0.03896103896103896
+cvx04_securityvalue_increase_securityvalue_missing_date,strong crude oil no help for chevron exxon mobil | SecurityValue.Increase_SecurityValue,FinancialReport,SENTIVENT,0.2815102774779819
+gm03_salesvolume_decrease_salesvolume_missing_date,general motors cadillac sales are booming in china | SalesVolume.Decrease_SalesVolume,SalesVolume,X,0.1458492975734355
+gm03_salesvolume_decrease_salesvolume_missing_date,general motors cadillac sales are booming in china | SalesVolume.Decrease_SalesVolume,SalesVolume,SENTIVENT,0.29971736764471085
+ba12_securityvalue_increase_securityvalue_missing_date,underappreciated why boeing s astronomical rise might not | SecurityValue.Increase_SecurityValue,SecurityValue,X,-0.00819672131147541
+ba12_securityvalue_increase_securityvalue_missing_date,underappreciated why boeing s astronomical rise might not | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.35421346307594187
+f15_salesvolume_increase_salesvolume_missing_date,ford is at a crossroad of danger and opportunity in china | SalesVolume.Increase_SalesVolume,Macroeconomics,X,0.0
+f15_salesvolume_increase_salesvolume_missing_date,ford is at a crossroad of danger and opportunity in china | SalesVolume.Increase_SalesVolume,Macroeconomics,SENTIVENT,0.28342557517122796
+ge10_securityvalue_decrease_securityvalue_missing_date,ge s stock tumbles toward second 6 session losing streak this m | SecurityValue.Decrease_SecurityValue,SecurityValue,X,-0.018937198067632853
+ge10_securityvalue_decrease_securityvalue_missing_date,ge s stock tumbles toward second 6 session losing streak this m | SecurityValue.Decrease_SecurityValue,SecurityValue,SENTIVENT,0.13311218913134612
+ba15_securityvalue_increase_securityvalue_missing_date,should boeing buy ge aviation | SecurityValue.Increase_SecurityValue,Merger/Acquisition,X,0.01075268817204301
+ba15_securityvalue_increase_securityvalue_missing_date,should boeing buy ge aviation | SecurityValue.Increase_SecurityValue,Merger/Acquisition,SENTIVENT,0.48566691002411455
+wmt05_financialreport_miss_missing_date,walmart stock nears key support after earnings miss | FinancialReport.Miss,FinancialReport,X,-0.01665526675786593
+wmt05_financialreport_miss_missing_date,walmart stock nears key support after earnings miss | FinancialReport.Miss,FinancialReport,SENTIVENT,0.27524614714171547
+amzn04_revenue_increase_revenue_missing_date,3 reasons amazon is nt done growing yet | Revenue.Increase_Revenue,Macroeconomics,X,0.5256181862812688
+amzn04_revenue_increase_revenue_missing_date,3 reasons amazon is nt done growing yet | Revenue.Increase_Revenue,Macroeconomics,SENTIVENT,0.17507764988385144
+aal08_product_service_launch_missing_date,airberlin goes bankrupt soon after announcing major chicago expa | Product/Service.Launch,Product/Service,X,0.17735482073887432
+aal08_product_service_launch_missing_date,airberlin goes bankrupt soon after announcing major chicago expa | Product/Service.Launch,Product/Service,SENTIVENT,0.1843427559720907
+gm02_salesvolume_increase_salesvolume_missing_date,general motors sales slip on rental fleet cutbacks | SalesVolume.Increase_SalesVolume,SalesVolume,X,-0.022025347606742955
+gm02_salesvolume_increase_salesvolume_missing_date,general motors sales slip on rental fleet cutbacks | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.34407160013389154
+f02_salesvolume_increase_salesvolume_missing_date,ford ekes out a sales gain on pickups and fleet deliveries | SalesVolume.Increase_SalesVolume,SalesVolume,X,0.0
+f02_salesvolume_increase_salesvolume_missing_date,ford ekes out a sales gain on pickups and fleet deliveries | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.23205021229608513
+abbv13_securityvalue_increase_securityvalue_missing_date,the hot stock biggest loser abbvie wynn resorts | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.3315856204772043
+abbv13_securityvalue_increase_securityvalue_missing_date,the hot stock biggest loser abbvie wynn resorts | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.5315504756573535
+ge11_securityvalue_increase_securityvalue_missing_date,ge s stock bounces sharply to pace dow gainers | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.045135655305146835
+ge11_securityvalue_increase_securityvalue_missing_date,ge s stock bounces sharply to pace dow gainers | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.2317566387055833
+aapl13_securityvalue_increase_securityvalue_missing_date,stocks mixed this california builder breaks out what to watc | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.33884917254785807
+aapl13_securityvalue_increase_securityvalue_missing_date,stocks mixed this california builder breaks out what to watc | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.25184805593932263
+amzn07_product_service_launch_missing_date,amazoncom just crushed department store stocks again with prime | Product/Service.Launch,Product/Service,X,0.2079076479076479
+amzn07_product_service_launch_missing_date,amazoncom just crushed department store stocks again with prime | Product/Service.Launch,Product/Service,SENTIVENT,0.22140206756765277
+amd13_rating_sellunderperform_missing_date,advanced micro sell says morgan stanley expectations too h | Rating.SellUnderperform,Rating,X,0.0674621212121212
+amd13_rating_sellunderperform_missing_date,advanced micro sell says morgan stanley expectations too h | Rating.SellUnderperform,Rating,SENTIVENT,0.14195703041603558
+dis12_revenue_decrease_revenue_missing_date,disney s fiscal 2017 in review | Revenue.Decrease_Revenue,Revenue,X,0.21447071447071445
+dis12_revenue_decrease_revenue_missing_date,disney s fiscal 2017 in review | Revenue.Decrease_Revenue,Revenue,SENTIVENT,0.396279542578216
+ba06_salesvolume_increase_salesvolume_missing_date,aircraft leasing firms lift boeing s dreamliner higher at the p | SalesVolume.Increase_SalesVolume,SalesVolume,X,0.027777777777777776
+ba06_salesvolume_increase_salesvolume_missing_date,aircraft leasing firms lift boeing s dreamliner higher at the p | SalesVolume.Increase_SalesVolume,SalesVolume,SENTIVENT,0.2699600764500022
+ge12_rating_credit_debt_missing_date,ge s credit downgraded at fitch outlook remains negative | Rating.Credit/Debt,Rating,X,0.20201947175631388
+ge12_rating_credit_debt_missing_date,ge s credit downgraded at fitch outlook remains negative | Rating.Credit/Debt,Rating,SENTIVENT,0.14435541904569466
+abbv07_rating_buyoutperform_missing_date,abbvie has the most valuable late stage pipeline but is its s | Rating.BuyOutperform,Rating,X,0.005291005291005292
+abbv07_rating_buyoutperform_missing_date,abbvie has the most valuable late stage pipeline but is its s | Rating.BuyOutperform,Rating,SENTIVENT,0.33170665192089654
+abbv10_securityvalue_increase_securityvalue_missing_date,abbvie you re upgrading it now | SecurityValue.Increase_SecurityValue,SecurityValue,X,0.16153846153846152
+abbv10_securityvalue_increase_securityvalue_missing_date,abbvie you re upgrading it now | SecurityValue.Increase_SecurityValue,SecurityValue,SENTIVENT,0.3348201431896113
+abbv04_product_service_launch_missing_date,is this dividend aristocrat ridiculously undervalued | Product/Service.Launch,Product/Service,X,0.5786324786324786
+abbv04_product_service_launch_missing_date,is this dividend aristocrat ridiculously undervalued | Product/Service.Launch,Product/Service,SENTIVENT,0.4359026835147934
+abbv09_securityvalue_increase_securityvalue_missing_date,abbvie scores 2 wins 1 threatens regeneron | SecurityValue.Increase_SecurityValue,Product/Service,X,0.023809523809523808
+abbv09_securityvalue_increase_securityvalue_missing_date,abbvie scores 2 wins 1 threatens regeneron | SecurityValue.Increase_SecurityValue,Product/Service,SENTIVENT,0.3071471595211451
+abbv12_rating_pricetarget_missing_date,top biotech stock near buy zone shows positive drug trial resu | Rating.PriceTarget,SecurityValue,X,0.0
+abbv12_rating_pricetarget_missing_date,top biotech stock near buy zone shows positive drug trial resu | Rating.PriceTarget,SecurityValue,SENTIVENT,0.3119383096689924
+jnj02_product_service_launch_missing_date,jj drug prevents heart attacks at cost of amputated toes | Product/Service.Launch,Product/Service,X,0.2916666666666667
+jnj02_product_service_launch_missing_date,jj drug prevents heart attacks at cost of amputated toes | Product/Service.Launch,Product/Service,SENTIVENT,0.4348056865954237
+aal00_revenue_increase_revenue_missing_date,american airlines up on record april traffic upbeat q2 view | Revenue.Increase_Revenue,FinancialReport,X,0.2222222222222222
+aal00_revenue_increase_revenue_missing_date,american airlines up on record april traffic upbeat q2 view | Revenue.Increase_Revenue,FinancialReport,SENTIVENT,0.3201015531660693
+chk01_securityvalue_stable_securityvalue_missing_date,what are the short interest trends in chesapeake energy stock | SecurityValue.Stable_SecurityValue,SecurityValue,X,0.0
+chk01_securityvalue_stable_securityvalue_missing_date,what are the short interest trends in chesapeake energy stock | SecurityValue.Stable_SecurityValue,SecurityValue,SENTIVENT,0.21859621859621864

@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# LLM response cache
+financial_narratives/.llm_cache/
+
+# Plots (PNG outputs)
+*.png
+financial_narratives/plots/
+financial_narratives/plots_sentivent/
+financial_narratives/plots_sentivent_advanced/
+financial_narratives/plots_sentivent_causal/
+financial_narratives/plots_sentivent_llm/
+financial_narratives/plots_sentivent_semantics/
+
+# Secrets
+.env
+financial_narratives/.env
+
+# macOS metadata
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
